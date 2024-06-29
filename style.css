@@ -1,0 +1,85 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.header{
+    background-color: black;
+    color: white;
+    padding:40px;
+    text-align: center;
+    /* margin-bottom: 50px; */
+    
+}
+.burger{
+    padding:3px;
+    margin: 2px;
+    text-align:left;
+    border : solid black 2px;
+    display: inline-block;
+}
+.burger__one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+.Noodles{
+    padding:3px;
+    margin: 2px;
+    text-align:left;
+    border : solid black 2px;
+    display: inline-block;
+}
+.Noodles__one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.Pasta{
+    padding:3px;
+    margin: 2px;
+    text-align:left;
+    border : solid black 2px;
+    display: inline-block;
+}
+.Pasta__one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.Kunafa{
+    padding:3px;
+    margin: 2px;
+    text-align:left;
+    border : solid black 2px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+.Kunafa__one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    vertical-align: bottom;
+}
+.food{
+    background-color: bisque;
+    border:solid black 2px;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.contact{
+    background-color: black;
+    color: white;
+    padding:20px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.contact__one{
+    background-color: yellow;
+    color: black;
+}
